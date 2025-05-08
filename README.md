@@ -19,6 +19,8 @@ Shop/
 
 ### Dev Start
 
+Make sure PostgreSQL and Redis are running locally.
+
 ```bash
 brew services start redis
 brew services start postgresql
@@ -33,8 +35,6 @@ cd exceso
 npm install
 npm run dev
 ```
-
-Make sure PostgreSQL and Redis are running locally.
 
 ### Frontend (Next.js)
 
