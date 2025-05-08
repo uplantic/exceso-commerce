@@ -17,6 +17,15 @@ Shop/
 
 ## ⚙️ Local Development
 
+### Dev Start
+
+```bash
+brew services start redis
+brew services start postgresql
+redis-cli ping         # should return PONG
+psql postgres          # enters Postgres shell
+```
+
 ### Backend (Medusa)
 
 ```bash
