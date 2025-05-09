@@ -1,11 +1,15 @@
 {
-  "name": "medusa-next",
-  "version": "1.0.3",
+  "name": "ecommerce-storefront",
+  "version": "1.0.0",
   "private": true,
-  "author": "Kasper Fabricius Kristensen <kasper@medusajs.com> & Victor Gerbrands <victor@medusajs.com> (https://www.medusajs.com)",
-  "description": "Next.js Starter to be used with Medusa V2",
+  "author": "Uplantic",
+  "description": "Modern e-commerce storefront template built with Next.js, Medusa, and Tailwind CSS",
   "keywords": [
-    "medusa-storefront"
+    "ecommerce",
+    "medusa",
+    "nextjs",
+    "tailwindcss",
+    "storefront"
   ],
   "scripts": {
     "dev": "next dev --turbopack -p 8000",
