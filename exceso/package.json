@@ -23,10 +23,10 @@
     "gelato:import": "medusa gelato-import"
   },
   "dependencies": {
-    "@medusajs/admin-sdk": "2.12.1",
-    "@medusajs/cli": "2.12.1",
-    "@medusajs/framework": "2.12.1",
-    "@medusajs/medusa": "2.12.1",
+    "@medusajs/admin-sdk": "2.12.2",
+    "@medusajs/cli": "2.12.2",
+    "@medusajs/framework": "2.12.2",
+    "@medusajs/medusa": "2.12.2",
     "@mikro-orm/core": "6.6.2",
     "@mikro-orm/knex": "6.6.2",
     "@mikro-orm/migrations": "6.6.2",
@@ -36,21 +36,21 @@
     "pg": "^8.16.3"
   },
   "devDependencies": {
-    "@medusajs/test-utils": "2.12.1",
+    "@medusajs/test-utils": "2.12.2",
     "@mikro-orm/cli": "6.6.2",
-    "@swc/core": "1.15.3",
+    "@swc/core": "1.15.4",
     "@swc/jest": "^0.2.39",
     "@types/jest": "^30.0.0",
-    "@types/node": "^25.0.0",
+    "@types/node": "^25.0.2",
     "@types/react": "^19.2.7",
     "@types/react-dom": "^19.2.3",
     "jest": "^30.2.0",
     "prop-types": "^15.8.1",
-    "react": "^19.2.1",
-    "react-dom": "^19.2.1",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3",
-    "vite": "^7.2.7",
+    "vite": "^7.3.0",
     "yalc": "^1.0.0-pre.53"
   },
   "engines": {
